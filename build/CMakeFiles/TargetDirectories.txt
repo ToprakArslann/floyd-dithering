@@ -1,0 +1,3 @@
+/home/secret/Belgeler/GitHub/dithering-app/build/CMakeFiles/dithering-app.dir
+/home/secret/Belgeler/GitHub/dithering-app/build/CMakeFiles/edit_cache.dir
+/home/secret/Belgeler/GitHub/dithering-app/build/CMakeFiles/rebuild_cache.dir
